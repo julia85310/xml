@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<curriculum>
+    <nombreCompleto>
+        <nombre></nombre>
+        <apellido id="1"></apellido>
+        <apellido id="2"></apellido>
+    </nombreCompleto>
+    <fechaNacimiento>
+        <diaNacimiento> </diaNacimiento>
+        <mesNacimiento> </mesNacimiento>
+        <añoNacimiento> </añoNacimiento> 
+    </fechaNacimiento>
+    <residencia>
+        <ciudad> </ciudad>
+        <pais> </pais>
+    </residencia>
+    <datosDeContacto>
+        <tlf></tlf>
+        <email></email>
+        <linkedIn></linkedIn>
+    </datosDeContacto>
+    <descripcion> </descripcion>
+    <competencias>
+        <competencia id="c1">
+            <nombreCompetencia> </nombreCompetencia>
+            <nivelCompetencia> </nivelCompetencia>
+        </competencia>
+    </competencias>
+    <formaciones>
+        <formacion id="f1">
+            <titulacion></titulacion>
+            <centro></centro>
+            <añoFormacion></añoFormacion>
+        </formacion>
+    </formaciones>
+    <experiencias>
+        <experiencia id="e1">
+            <puesto></puesto>
+            <empresa></empresa>
+            <añoInicio></añoInicio>
+            <añoFinalizacion></añoFinalizacion>
+        </experiencia>
+    </experiencias>
+</curriculum>
